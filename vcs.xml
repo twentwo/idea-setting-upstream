@@ -138,6 +138,10 @@
           <option name="url" value="http://git.souche.com/hero/souche-lightning.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.oschina.net/twentwo/java_pdf_demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
