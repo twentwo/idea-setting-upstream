@@ -166,6 +166,10 @@
           <option name="url" value="http://git.souche.com/weijin/env_conf_app_dasouche_test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.souche.com/spay/sub-act-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
