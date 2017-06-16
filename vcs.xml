@@ -182,6 +182,10 @@
           <option name="url" value="http://git.souche.com/spay/funds-adm.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.souche.com/weijin/fj900_bank-mybank.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
