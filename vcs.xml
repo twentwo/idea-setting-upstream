@@ -202,6 +202,10 @@
           <option name="url" value="http://gitee.com" />
           <option name="userName" value="joneyee22@qq.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.souche-inc.com" />
+          <option name="userName" value="yecong" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
