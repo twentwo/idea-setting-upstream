@@ -206,6 +206,10 @@
           <option name="url" value="http://git.souche-inc.com" />
           <option name="userName" value="yecong" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.souche-inc.com/base-open/nianhui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
