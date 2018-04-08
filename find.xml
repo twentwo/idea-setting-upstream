@@ -34,8 +34,8 @@
       <mask>*ja</mask>
       <mask>*jav</mask>
       <mask>*java</mask>
-      <mask>*xml</mask>
       <mask>*jsx</mask>
+      <mask>*xml</mask>
     </recentFileMasks>
   </component>
 </application>
