@@ -3,37 +3,15 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*h</mask>
-      <mask>*x'm</mask>
-      <mask>*T</mask>
-      <mask>*Tes</mask>
-      <mask>*Test</mask>
-      <mask>Test</mask>
-      <mask>Test*</mask>
-      <mask>*。java</mask>
-      <mask>*.java</mask>
-      <mask>*j'a'cva</mask>
-      <mask>*j'a'cv</mask>
-      <mask>*ja'ca</mask>
-      <mask>*ja'c</mask>
-      <mask>*js'x</mask>
-      <mask>*a</mask>
-      <mask>*</mask>
-      <mask>*x</mask>
-      <mask>*xm</mask>
-      <mask>*j'x</mask>
-      <mask>*j's</mask>
-      <mask>*js</mask>
-      <mask>*j</mask>
-      <mask>*ja</mask>
-      <mask>*jav</mask>
-      <mask>*java</mask>
-      <mask>*jsx</mask>
-      <mask>*xml</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.java" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
