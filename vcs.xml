@@ -218,6 +218,10 @@
           <option name="url" value="https://github.com/twentwo/Java-Multi-thread-Programming.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/twentwo/jeesite4.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
