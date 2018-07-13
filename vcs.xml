@@ -234,6 +234,10 @@
           <option name="url" value="https://github.com/twentwo/ArtConcurrentBook.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.souche-inc.com/yecong/souche-optimus.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
