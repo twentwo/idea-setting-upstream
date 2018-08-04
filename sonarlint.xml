@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.dasouche-inc.net" />
+          <token>df9edfc9dfc9df93dfcedfcedfcfdf99df98dfcfdf98dfcedf9bdf9edfccdf9adf9edfcfdf92dfccdfcfdf9bdf9fdf9cdfcfdf9edf9cdf9fdfcbdf98dfc8df9edfcedf99dfcedf93dfcfdfccdf9fdfcb</token>
+          <option name="name" value="funds-sonar" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
