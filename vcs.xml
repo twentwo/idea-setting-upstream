@@ -350,6 +350,10 @@
           <option name="url" value="https://git.souche-inc.com/base-midware/dubbo-proxy-jetty.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/twentwo/takeseem-demo-aop.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
