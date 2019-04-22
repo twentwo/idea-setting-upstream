@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="param" />
+      <item value="Arguments" />
+      <item value="Wildcard" />
       <item value="represented by" />
       <item value="Determines if the class or interface represented by this * {@code Class} object is either the same as, or is a superclass or * superinterface of, the class or interface represented by the specified * {@code Class} parameter. It returns {@code true} if so; * otherwise it returns {@code false}. If this {@code Class} * object represents a primitive type, this method returns * {@code true} if the specified {@code Class} parameter is * exactly this {@code Class} object; otherwise it returns * {@code false}." />
       <item value="specified" />
@@ -21,8 +24,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="21" />
+        <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
