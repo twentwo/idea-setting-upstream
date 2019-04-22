@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="represented by" />
+      <item value="Determines if the class or interface represented by this * {@code Class} object is either the same as, or is a superclass or * superinterface of, the class or interface represented by the specified * {@code Class} parameter. It returns {@code true} if so; * otherwise it returns {@code false}. If this {@code Class} * object represents a primitive type, this method returns * {@code true} if the specified {@code Class} parameter is * exactly this {@code Class} object; otherwise it returns * {@code false}." />
+      <item value="specified" />
+      <item value="Specification" />
+      <item value="assigned" />
       <item value="Argument" />
       <item value="Parameter" />
       <item value="inspection" />
@@ -13,12 +18,11 @@
       <item value="Predicate" />
       <item value="underlying" />
       <item value="primitive" />
-      <item value="specified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
