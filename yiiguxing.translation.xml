@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ordinal" />
       <item value="param" />
       <item value="Arguments" />
       <item value="Wildcard" />
@@ -25,7 +26,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="ENGLISH" value="22" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
