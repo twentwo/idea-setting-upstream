@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Elapsed" />
       <item value="Immutable" />
       <item value="acquire" />
       <item value="Absent" />
@@ -41,8 +42,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
