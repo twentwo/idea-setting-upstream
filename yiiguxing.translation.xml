@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Constrain" />
       <item value="evicting" />
       <item value="Meter" />
       <item value="Wildcard" />
@@ -13,7 +14,6 @@
       <item value="fire" />
       <item value="interpolate" />
       <item value="polate" />
-      <item value="Constrain" />
       <item value="Tuple" />
       <item value="mirage to" />
       <item value="Elapsed" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
