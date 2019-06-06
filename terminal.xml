@@ -1,0 +1,11 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <envs>
+      <env key="env" value="DEV" />
+      <env key="FUNDS_AMD_JDBC_DRIVER" value="com.mysql.jdbc.Driver" />
+      <env key="FUNDS_ADM_JDBC_URL" value="jdbc:mysql://172.17.40.110:3306/funds_platform?useUnicode=true&amp;amp&amp;characterEncoding=UTF-8&amp;zeroDateTimeBehavior=convertToNull" />
+      <env key="FUNDS_ADM_JDBC_USERNAME" value="root" />
+      <env key="FUNDS_ADM_JDBC_PASSWORD" value="dpjA8Z6XPXbvos" />
+    </envs>
+  </component>
+</application>
