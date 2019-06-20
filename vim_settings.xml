@@ -3,18 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/ArtConcurrentBook/src/chapter04/MultiThread.java" timestamp="1561022786024">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="77" />
-        <mark key="^" line="13" column="71" />
-        <mark key="." line="13" column="77" />
+      <file name="$USER_HOME$/IdeaProjects/ArtConcurrentBook/src/chapter04/MultiThread.java" timestamp="1561023653863">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="17" column="28" />
+        <mark key="^" line="17" column="28" />
+        <mark key="." line="17" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ArtConcurrentBook/src/chapter04/Priority.java" timestamp="1561022190537">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/lang/Thread.java" timestamp="1561022519353" />
     </filemarks>
     <jumps />
     <registers>
@@ -33,9 +32,12 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>q</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
