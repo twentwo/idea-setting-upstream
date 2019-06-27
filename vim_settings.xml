@@ -7,6 +7,9 @@
         <mark key="'" line="0" column="0" />
         <mark key="^" line="15" column="76" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/funds-adm/core/query/src/main/java/com/souche/funds/adm/core/query/mapper/QueryMapper.java" timestamp="1561622321994">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ArtConcurrentBook/src/chapter04/Priority.java" timestamp="1561022190537">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -16,6 +19,8 @@
     <jumps>
       <jump line="15" column="76" filename="$USER_HOME$/IdeaProjects/ArtConcurrentBook/src/chapter04/MultiThread.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ArtConcurrentBook/src/chapter04/MultiThread.java" />
+      <jump line="103" column="48" filename="$USER_HOME$/IdeaProjects/funds-adm/core/query/src/main/java/com/souche/funds/adm/core/query/mapper/QueryMapper.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/funds-adm/core/query/src/main/java/com/souche/funds/adm/core/query/mapper/QueryMapper.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
