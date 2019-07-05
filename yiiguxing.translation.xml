@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="vice-versa" />
+      <item value="* Returns a view of the portion of this map whose keys are greater than (or * equal to, if {@code inclusive} is true) {@code fromKey}. The returned * map is backed by this map, so changes in the returned map are reflected * in this map, and vice-versa. The returned map supports all optional * map operations that this map supports." />
       <item value="inclusive" />
       <item value="Scenario" />
       <item value="specified" />
@@ -49,13 +51,11 @@
       <item value="assigned" />
       <item value="Argument" />
       <item value="Parameter" />
-      <item value="inspection" />
-      <item value="noinspection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="59" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
