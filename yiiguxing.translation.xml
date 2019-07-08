@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hagersten" />
+      <item value="Landin" />
+      <item value="Craig" />
       <item value="vice-versa" />
       <item value="* Returns a view of the portion of this map whose keys are greater than (or * equal to, if {@code inclusive} is true) {@code fromKey}. The returned * map is backed by this map, so changes in the returned map are reflected * in this map, and vice-versa. The returned map supports all optional * map operations that this map supports." />
       <item value="inclusive" />
@@ -48,15 +51,13 @@
       <item value="represented by" />
       <item value="Determines if the class or interface represented by this * {@code Class} object is either the same as, or is a superclass or * superinterface of, the class or interface represented by the specified * {@code Class} parameter. It returns {@code true} if so; * otherwise it returns {@code false}. If this {@code Class} * object represents a primitive type, this method returns * {@code true} if the specified {@code Class} parameter is * exactly this {@code Class} object; otherwise it returns * {@code false}." />
       <item value="Specification" />
-      <item value="assigned" />
-      <item value="Argument" />
-      <item value="Parameter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="PORTUGUESE" value="1" />
+        <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
