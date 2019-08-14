@@ -1,54 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
-    <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/ArtConcurrentBook/src/chapter04/MultiThread.java" timestamp="1561027970339">
-        <mark key="'" line="0" column="0" />
-        <mark key="^" line="15" column="76" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/funds-adm/core/query/src/main/java/com/souche/funds/adm/core/query/mapper/QueryMapper.java" timestamp="1561622321994">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/ArtConcurrentBook/src/chapter04/Priority.java" timestamp="1561022190537">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/ArtConcurrentBook/src/chapter04/WaitNotify.java" timestamp="1562146633556" />
-    </filemarks>
-    <jumps>
-      <jump line="15" column="76" filename="$USER_HOME$/IdeaProjects/ArtConcurrentBook/src/chapter04/MultiThread.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ArtConcurrentBook/src/chapter04/MultiThread.java" />
-      <jump line="103" column="48" filename="$USER_HOME$/IdeaProjects/funds-adm/core/query/src/main/java/com/souche/funds/adm/core/query/mapper/QueryMapper.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/funds-adm/core/query/src/main/java/com/souche/funds/adm/core/query/mapper/QueryMapper.java" />
-    </jumps>
-    <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWRNWEJlYW4gdGhyZWFkTVhCZWFuID0gTWFuYWdlbWVudEZhY3RvcnkuZ2V0VGhyZWFkTVhCZWFuKCk7Cg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvbGF0aWxlIGJvb2xlYW4gbm90U3RhcnQgPSB0cnVlOwo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWRNWEJlYW4gdGhyZWFkTVhCZWFuID0gTWFuYWdlbWVudEZhY3RvcnkuZ2V0VGhyZWFkTVhCZWFuKCk7Cg==</text>
-      </register>
-      <register name=":" type="4">
-        <text>q</text>
-      </register>
-    </registers>
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search />
-      <history-cmd>
-        <entry>q</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
+    <state version="5" enabled="false" />
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
@@ -57,5 +9,10 @@
     <editor>
       <key-repeat enabled="true" />
     </editor>
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+      <template-selectmode enabled="false" />
+    </notifications>
   </component>
 </application>
