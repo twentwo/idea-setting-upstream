@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="equivalent" />
       <item value="retain" />
       <item value="Occurrence" />
       <item value="Retrieves" />
@@ -50,12 +51,11 @@
       <item value="Violation" />
       <item value="assignable" />
       <item value="is assignable to" />
-      <item value="Invocation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="70" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
