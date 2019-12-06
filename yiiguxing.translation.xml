@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MERGE" />
+      <item value="DETACH" />
+      <item value="cascade" />
+      <item value="EAGER" />
       <item value="randomly" />
       <item value="Pseudo" />
       <item value="equivalent" />
@@ -47,15 +51,12 @@
       <item value="Inherited" />
       <item value="Retention" />
       <item value="tokenize" />
-      <item value="eldest" />
-      <item value="entity" />
-      <item value="immutable" />
-      <item value="Violation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="77" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
