@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="passivate" />
       <item value="restriction" />
       <item value="MERGE" />
       <item value="DETACH" />
@@ -50,12 +51,11 @@
       <item value="only If Absent" />
       <item value="daemon" />
       <item value="Inherited" />
-      <item value="Retention" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="79" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="1" />
