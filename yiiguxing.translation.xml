@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Generic" />
       <item value="Inherited" />
       <item value="hierarchy" />
       <item value="preferable" />
@@ -50,12 +51,11 @@
       <item value="fire" />
       <item value="interpolate" />
       <item value="polate" />
-      <item value="Tuple" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="91" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="1" />
