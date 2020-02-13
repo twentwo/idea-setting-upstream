@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dimension" />
       <item value="Narrative" />
       <item value="INFRASTRUCTURE" />
       <item value="explicit" />
@@ -50,12 +51,11 @@
       <item value="representing" />
       <item value="Constrain" />
       <item value="evicting" />
-      <item value="Meter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="99" />
-        <entry key="ENGLISH" value="100" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="101" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
