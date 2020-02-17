@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="flip" />
       <item value="Mount" />
       <item value="NATUAL" />
       <item value="Dimension" />
@@ -50,12 +51,11 @@
       <item value="preferred" />
       <item value="is Primitive" />
       <item value="constraints" />
-      <item value="representing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="104" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
