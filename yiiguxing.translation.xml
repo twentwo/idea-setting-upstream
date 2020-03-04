@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Idempotent" />
+      <item value="embedded" />
       <item value="Advances" />
       <item value="Specification" />
       <item value="Retrieves" />
@@ -49,13 +51,11 @@
       <item value="Negative" />
       <item value="Hagersten" />
       <item value="Landin" />
-      <item value="Craig" />
-      <item value="vice-versa" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="116" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
