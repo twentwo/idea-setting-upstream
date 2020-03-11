@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parameterized" />
+      <item value="Argument" />
+      <item value="Canonical" />
       <item value="Inheritable" />
       <item value="Sneaky" />
       <item value="inherit" />
@@ -48,14 +51,11 @@
       <item value="EAGER" />
       <item value="randomly" />
       <item value="Pseudo" />
-      <item value="equivalent" />
-      <item value="retain" />
-      <item value="Occurrence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="122" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="CHINESE" value="125" />
+        <entry key="ENGLISH" value="126" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
