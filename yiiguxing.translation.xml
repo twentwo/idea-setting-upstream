@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Indicates" />
       <item value="Predecessor" />
       <item value="curator" />
       <item value="parameterized" />
@@ -50,7 +51,6 @@
       <item value="MERGE" />
       <item value="DETACH" />
       <item value="cascade" />
-      <item value="EAGER" />
     </histories>
     <option name="languageScores">
       <map>
