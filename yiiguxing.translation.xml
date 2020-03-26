@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Absent" />
       <item value="TIDYING" />
       <item value="Posix" />
       <item value="evaluator" />
@@ -25,7 +26,6 @@
       <item value="Retrieves" />
       <item value="suspension" />
       <item value="threshold" />
-      <item value="Absent" />
       <item value="positive" />
       <item value="negative" />
       <item value="flip" />
