@@ -4,11 +4,11 @@
     <property name="created">2017-03-09T14:31:36</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.5.0.0</property>
-    <property name="modified">2020-03-29T13:08:40</property>
+    <property name="modified">2020-03-29T16:19:46</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
