@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Retrieves" />
       <item value="epoch" />
       <item value="Absent" />
       <item value="TIDYING" />
@@ -24,7 +25,6 @@
       <item value="embedded" />
       <item value="Advances" />
       <item value="Specification" />
-      <item value="Retrieves" />
       <item value="suspension" />
       <item value="threshold" />
       <item value="positive" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="131" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
