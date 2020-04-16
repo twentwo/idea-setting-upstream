@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="infinity" />
+      <item value="sqrt" />
       <item value="per" />
       <item value="preferable" />
       <item value="upon" />
@@ -49,13 +51,11 @@
       <item value="combiner" />
       <item value="accumulator" />
       <item value="Deferred" />
-      <item value="Generic" />
-      <item value="Inherited" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="137" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="CHINESE" value="138" />
+        <entry key="ENGLISH" value="139" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
