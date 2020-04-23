@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invoice" />
       <item value="Capable" />
       <item value="Queries whether any threads have been waiting to acquire longer * than the current thread" />
       <item value="infinity" />
@@ -50,12 +51,11 @@
       <item value="detached" />
       <item value="Actuator" />
       <item value="Introspected" />
-      <item value="combiner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="140" />
-        <entry key="ENGLISH" value="141" />
+        <entry key="CHINESE" value="141" />
+        <entry key="ENGLISH" value="142" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
