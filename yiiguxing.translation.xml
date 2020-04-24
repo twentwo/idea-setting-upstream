@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="审核通过" />
+      <item value="WAIT AGENCY CONFIRM" />
+      <item value="comfirm" />
       <item value="退回" />
       <item value="审核" />
       <item value="audit" />
@@ -48,14 +51,11 @@
       <item value="negative" />
       <item value="flip" />
       <item value="Mount" />
-      <item value="NATUAL" />
-      <item value="Dimension" />
-      <item value="Narrative" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="144" />
-        <entry key="ENGLISH" value="145" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="147" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
