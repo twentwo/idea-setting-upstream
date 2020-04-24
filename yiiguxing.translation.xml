@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="退回" />
       <item value="审核" />
       <item value="audit" />
       <item value="Buyback Order Audit Event" />
@@ -50,7 +51,6 @@
       <item value="NATUAL" />
       <item value="Dimension" />
       <item value="Narrative" />
-      <item value="INFRASTRUCTURE" />
     </histories>
     <option name="languageScores">
       <map>
