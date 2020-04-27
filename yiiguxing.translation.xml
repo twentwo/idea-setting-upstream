@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Eureka" />
       <item value="审核通过" />
       <item value="WAIT AGENCY CONFIRM" />
       <item value="comfirm" />
@@ -50,11 +51,10 @@
       <item value="positive" />
       <item value="negative" />
       <item value="flip" />
-      <item value="Mount" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
+        <entry key="CHINESE" value="147" />
         <entry key="ENGLISH" value="147" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
