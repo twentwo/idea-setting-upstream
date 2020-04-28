@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ribbon" />
       <item value="Eureka" />
       <item value="审核通过" />
       <item value="WAIT AGENCY CONFIRM" />
@@ -50,7 +51,6 @@
       <item value="threshold" />
       <item value="positive" />
       <item value="negative" />
-      <item value="flip" />
     </histories>
     <option name="languageScores">
       <map>
