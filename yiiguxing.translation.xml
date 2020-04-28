@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="feign" />
       <item value="Ribbon" />
       <item value="Eureka" />
       <item value="审核通过" />
@@ -50,7 +51,6 @@
       <item value="suspension" />
       <item value="threshold" />
       <item value="positive" />
-      <item value="negative" />
     </histories>
     <option name="languageScores">
       <map>
