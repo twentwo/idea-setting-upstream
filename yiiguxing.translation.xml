@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hystrix" />
+      <item value="Feign" />
       <item value="feign" />
       <item value="Ribbon" />
       <item value="Eureka" />
@@ -49,8 +51,6 @@
       <item value="Advances" />
       <item value="Specification" />
       <item value="suspension" />
-      <item value="threshold" />
-      <item value="positive" />
     </histories>
     <option name="languageScores">
       <map>
