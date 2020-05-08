@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="logback" />
+      <item value="sentinel" />
+      <item value="scratches" />
+      <item value="scratcher" />
       <item value="fallback" />
       <item value="Hystrix" />
       <item value="Feign" />
@@ -47,15 +51,11 @@
       <item value="Explicit" />
       <item value="draft" />
       <item value="payload" />
-      <item value="Idempotent" />
-      <item value="embedded" />
-      <item value="Advances" />
-      <item value="Specification" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="149" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
