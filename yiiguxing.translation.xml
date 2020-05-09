@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="determine" />
       <item value="Instantiation" />
       <item value="logback" />
       <item value="sentinel" />
@@ -50,7 +51,6 @@
       <item value="inherit" />
       <item value="semantics" />
       <item value="Explicit" />
-      <item value="draft" />
     </histories>
     <option name="languageScores">
       <map>
