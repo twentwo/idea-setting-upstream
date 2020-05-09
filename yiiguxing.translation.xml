@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="infinity" />
+      <item value="sqrt" />
       <item value="determine" />
       <item value="Instantiation" />
       <item value="logback" />
@@ -24,8 +26,6 @@
       <item value="Invoice" />
       <item value="Capable" />
       <item value="Queries whether any threads have been waiting to acquire longer * than the current thread" />
-      <item value="infinity" />
-      <item value="sqrt" />
       <item value="per" />
       <item value="preferable" />
       <item value="upon" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="ENGLISH" value="150" />
         <entry key="FRENCH" value="2" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
