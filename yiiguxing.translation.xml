@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="actuator" />
+      <item value="ac" />
       <item value="embedded" />
       <item value="extract" />
       <item value="Identifier" />
@@ -49,8 +51,6 @@
       <item value="curator" />
       <item value="parameterized" />
       <item value="Argument" />
-      <item value="Canonical" />
-      <item value="Inheritable" />
     </histories>
     <option name="languageScores">
       <map>
