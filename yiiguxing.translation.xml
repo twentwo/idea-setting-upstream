@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reduction" />
+      <item value="accumulator" />
       <item value="Inherited" />
       <item value="mutable" />
       <item value="哑" />
@@ -49,12 +51,10 @@
       <item value="Absent" />
       <item value="TIDYING" />
       <item value="Posix" />
-      <item value="evaluator" />
-      <item value="Hierarchical" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
+        <entry key="CHINESE" value="153" />
         <entry key="ENGLISH" value="153" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
