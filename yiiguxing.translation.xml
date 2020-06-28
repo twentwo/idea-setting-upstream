@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Expenditure" />
       <item value="identical" />
       <item value="allocated" />
       <item value="strip Trailing Zeros" />
@@ -50,12 +51,11 @@
       <item value="eagerly" />
       <item value="Invoice" />
       <item value="Capable" />
-      <item value="Queries whether any threads have been waiting to acquire longer * than the current thread" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="164" />
-        <entry key="ENGLISH" value="165" />
+        <entry key="CHINESE" value="165" />
+        <entry key="ENGLISH" value="166" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
