@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="约瑟夫环" />
       <item value="tag" />
       <item value="interval" />
       <item value="resume" />
@@ -50,12 +51,11 @@
       <item value="审核通过" />
       <item value="WAIT AGENCY CONFIRM" />
       <item value="comfirm" />
-      <item value="退回" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="172" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="ENGLISH" value="173" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
