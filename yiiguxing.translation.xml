@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * Marker interface used by &lt;tt&gt;List&lt;/tt&gt; implementations to indicate that * they support fast (generally constant time) random access. The primary * purpose of this interface is to allow generic algorithms to alter their * behavior to provide good performance when applied to either random or * sequential access lists. * * &lt;p&gt;The best algorithms for manipulating random access lists (such as * &lt;tt&gt;ArrayList&lt;/tt&gt;) can produce quadratic behavior when applied to * sequential access lists (such as &lt;tt&gt;LinkedList&lt;/tt&gt;). Generic list * algorithms are encouraged to check whether the given list is an * &lt;tt&gt;instanceof&lt;/tt&gt; this interface before applying an algorithm that would * provide poor performance if it were applied to a sequential access list, * and to alter their behavior if necessary to guarantee acceptable * performance. * * &lt;p&gt;It is recognized that the distinction between random and sequential * access is often fuzzy. For example, some &lt;tt&gt;List&lt;/tt&gt; implementations * provide asymptotically linear access times if they get huge, but constant * access times in practice. Such a &lt;tt&gt;List&lt;/tt&gt; implementation * should generally implement this interface. As a rule of thumb, a * &lt;tt&gt;List&lt;/tt&gt; implementation should implement this interface if, * for typical instances of the class, this loop: * &lt;pre&gt; * for (int i=0, n=list.size(); i &amp;lt; n; i++) * list.get(i); * &lt;/pre&gt; * runs faster than this loop: * &lt;pre&gt; * for (Iterator i=list.iterator(); i.hasNext(); ) * i.next(); * &lt;/pre&gt; * * &lt;p&gt;This interface is a member of the * &lt;a href=&quot;{@docRoot}/../technotes/guides/collections/index.html&quot;&gt; * Java Collections Framework&lt;/a&gt;." />
+      <item value="fuzzy" />
+      <item value="asymptotically" />
+      <item value="linear" />
+      <item value="recognized" />
+      <item value="distinction" />
+      <item value="encouraged" />
+      <item value="quadratic" />
+      <item value="produce" />
+      <item value="manipulating" />
+      <item value="indicate" />
       <item value="约瑟夫环" />
       <item value="tag" />
       <item value="interval" />
@@ -40,22 +51,11 @@
       <item value="determine" />
       <item value="Instantiation" />
       <item value="logback" />
-      <item value="sentinel" />
-      <item value="scratches" />
-      <item value="scratcher" />
-      <item value="fallback" />
-      <item value="Feign" />
-      <item value="feign" />
-      <item value="Ribbon" />
-      <item value="Eureka" />
-      <item value="审核通过" />
-      <item value="WAIT AGENCY CONFIRM" />
-      <item value="comfirm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="172" />
-        <entry key="ENGLISH" value="173" />
+        <entry key="CHINESE" value="185" />
+        <entry key="ENGLISH" value="186" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
