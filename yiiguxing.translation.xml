@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="leave" />
+      <item value="purchase" />
+      <item value="transparency" />
+      <item value="transLucence" />
+      <item value="transLucent" />
+      <item value="transLucene" />
       <item value="Eager" />
       <item value="gang of four" />
       <item value="刚" />
@@ -45,12 +51,6 @@
       <item value="actuator" />
       <item value="Generic" />
       <item value="Outcome" />
-      <item value="detach" />
-      <item value="reduction" />
-      <item value="accumulator" />
-      <item value="mutable" />
-      <item value="哑" />
-      <item value="哑的" />
     </histories>
     <option name="languageScores">
       <map>
