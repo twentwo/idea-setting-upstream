@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Primitive" />
       <item value="leave" />
       <item value="purchase" />
       <item value="transparency" />
@@ -50,12 +51,11 @@
       <item value="Hierarchy" />
       <item value="actuator" />
       <item value="Generic" />
-      <item value="Outcome" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="193" />
-        <entry key="ENGLISH" value="193" />
+        <entry key="ENGLISH" value="194" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
