@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="origin" />
+      <item value="origional" />
+      <item value="origion" />
+      <item value="orig" />
+      <item value="origi" />
       <item value="钩子" />
       <item value="Instruction" />
       <item value="observer" />
@@ -46,15 +51,10 @@
       <item value="Expenditure" />
       <item value="identical" />
       <item value="allocated" />
-      <item value="strip Trailing Zeros" />
-      <item value="capacity-restricted" />
-      <item value="lexicographically" />
-      <item value="inflate" />
-      <item value="buyback Payer Subject" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
+        <entry key="CHINESE" value="197" />
         <entry key="ENGLISH" value="197" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
