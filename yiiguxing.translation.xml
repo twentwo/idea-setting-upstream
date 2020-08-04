@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="flip" />
       <item value="origin" />
       <item value="origional" />
       <item value="origion" />
@@ -50,7 +51,6 @@
       <item value="suspend" />
       <item value="Expenditure" />
       <item value="identical" />
-      <item value="allocated" />
     </histories>
     <option name="languageScores">
       <map>
