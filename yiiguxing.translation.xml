@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bidirectional" />
       <item value="Idempotent" />
       <item value="Assignable" />
       <item value="coordinate" />
@@ -50,12 +51,11 @@
       <item value="约瑟夫环" />
       <item value="tag" />
       <item value="interval" />
-      <item value="resume" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="202" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="CHINESE" value="203" />
+        <entry key="ENGLISH" value="204" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
