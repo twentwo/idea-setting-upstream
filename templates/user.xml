@@ -19,4 +19,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name=".toMap" value=".collect(Collectors.toMap(e -&gt; $KEY_MAPPER$, e -&gt; $END$))" description=".collect(Collectors.toMap(e -&gt; $KEY_MAPPER$, e -&gt; $END$))" toReformat="false" toShortenFQNames="true">
+    <variable name="KEY_MAPPER" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
