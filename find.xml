@@ -13,10 +13,10 @@
     <mask>*.mxml</mask>
     <mask>*.groovy</mask>
     <mask>*.js</mask>
-    <mask>*.sql</mask>
     <mask>*.jsx</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
+    <mask>*.sql</mask>
     <mask>*.java</mask>
   </component>
 </application>
