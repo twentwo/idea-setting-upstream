@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Adaptive" />
+      <item value="Activate" />
       <item value="delegates" />
       <item value="Hierarchical" />
       <item value="Examine" />
@@ -49,13 +51,11 @@
       <item value="distinction" />
       <item value="encouraged" />
       <item value="quadratic" />
-      <item value="produce" />
-      <item value="manipulating" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="207" />
-        <entry key="ENGLISH" value="208" />
+        <entry key="CHINESE" value="210" />
+        <entry key="ENGLISH" value="211" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
