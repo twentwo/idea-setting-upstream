@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="idempotent" />
       <item value="corresponding" />
       <item value="Invocation Handler" />
       <item value="Adaptive" />
@@ -50,12 +51,11 @@
       <item value="asymptotically" />
       <item value="linear" />
       <item value="recognized" />
-      <item value="distinction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="215" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="217" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
@@ -64,6 +64,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609739649030" />
+    <option name="lastTrimTime" value="1611035426985" />
   </component>
 </application>
