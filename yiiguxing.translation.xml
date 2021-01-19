@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lease" />
       <item value="idempotent" />
       <item value="corresponding" />
       <item value="Invocation Handler" />
@@ -50,12 +51,11 @@
       <item value="fuzzy" />
       <item value="asymptotically" />
       <item value="linear" />
-      <item value="recognized" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="217" />
+        <entry key="ENGLISH" value="218" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
