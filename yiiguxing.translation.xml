@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Idempotence" />
       <item value="Substitut" />
       <item value="Violation" />
       <item value="Constraint" />
@@ -50,12 +51,11 @@
       <item value="Circuit" />
       <item value="post" />
       <item value="Infrastructure" />
-      <item value="assignable" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="221" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="ENGLISH" value="222" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
