@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Idempotence" />
-      <item value="Substitut" />
       <item value="Violation" />
       <item value="Constraint" />
+      <item value="Idempotence" />
+      <item value="Substitut" />
       <item value="Subtutute" />
       <item value="Trial" />
       <item value="lease" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="221" />
-        <entry key="ENGLISH" value="222" />
+        <entry key="CHINESE" value="223" />
+        <entry key="ENGLISH" value="224" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
@@ -65,5 +65,8 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1612159686920" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
