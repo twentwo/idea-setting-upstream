@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="precision" />
       <item value="aggregate" />
       <item value="Simulator" />
       <item value="update Buyback Subtutute Info" />
@@ -50,12 +51,11 @@
       <item value="刚" />
       <item value="gang" />
       <item value="Gang" />
-      <item value="Circuit Breaker" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="CHINESE" value="228" />
+        <entry key="ENGLISH" value="229" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
