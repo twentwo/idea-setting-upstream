@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MPC" />
+      <item value="canonical" />
       <item value="multiplier" />
       <item value="precision" />
       <item value="aggregate" />
@@ -49,8 +51,6 @@
       <item value="transLucene" />
       <item value="Eager" />
       <item value="gang of four" />
-      <item value="刚" />
-      <item value="gang" />
     </histories>
     <option name="languageScores">
       <map>
