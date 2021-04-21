@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exhausted" />
       <item value="MPC" />
       <item value="canonical" />
       <item value="multiplier" />
@@ -50,7 +51,6 @@
       <item value="transLucent" />
       <item value="transLucene" />
       <item value="Eager" />
-      <item value="gang of four" />
     </histories>
     <option name="languageScores">
       <map>
