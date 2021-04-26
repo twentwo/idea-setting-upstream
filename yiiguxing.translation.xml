@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="suspend" />
       <item value="exhausted" />
       <item value="MPC" />
       <item value="canonical" />
@@ -50,7 +51,6 @@
       <item value="transLucence" />
       <item value="transLucent" />
       <item value="transLucene" />
-      <item value="Eager" />
     </histories>
     <option name="languageScores">
       <map>
