@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="vendor" />
       <item value="estimated Time" />
       <item value="radix" />
       <item value="Unsatisfied" />
@@ -50,12 +51,11 @@
       <item value="Primitive" />
       <item value="leave" />
       <item value="purchase" />
-      <item value="transparency" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="231" />
+        <entry key="CHINESE" value="231" />
+        <entry key="ENGLISH" value="232" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
