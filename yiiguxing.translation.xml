@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Capable" />
       <item value="Demand" />
       <item value="Generic" />
       <item value="SUPPORT DRAINAGE TYPE FUNDS" />
@@ -50,12 +51,11 @@
       <item value="Instruction" />
       <item value="observer" />
       <item value="Caretaker" />
-      <item value="Primitive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="234" />
-        <entry key="ENGLISH" value="235" />
+        <entry key="CHINESE" value="235" />
+        <entry key="ENGLISH" value="236" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
