@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="omitted" />
+      <item value="Accessors" />
       <item value="Mutable" />
       <item value="Capable" />
       <item value="Demand" />
@@ -49,13 +51,11 @@
       <item value="orig" />
       <item value="origi" />
       <item value="钩子" />
-      <item value="Instruction" />
-      <item value="observer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="236" />
-        <entry key="ENGLISH" value="237" />
+        <entry key="CHINESE" value="238" />
+        <entry key="ENGLISH" value="239" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
