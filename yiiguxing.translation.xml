@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="normalize" />
       <item value="posix" />
       <item value="Canonical" />
       <item value="reported" />
@@ -50,12 +51,11 @@
       <item value="Adaptive" />
       <item value="Activate" />
       <item value="delegates" />
-      <item value="Hierarchical" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="253" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="254" />
+        <entry key="ENGLISH" value="255" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
