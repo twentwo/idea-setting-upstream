@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reported" />
+      <item value="Underflow" />
+      <item value="underflow" />
       <item value="compensation first" />
       <item value="Concrete" />
       <item value="Deploy" />
@@ -48,14 +51,11 @@
       <item value="Hierarchical" />
       <item value="Examine" />
       <item value="Nested" />
-      <item value="bidirectional" />
-      <item value="Idempotent" />
-      <item value="Assignable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="248" />
-        <entry key="ENGLISH" value="249" />
+        <entry key="CHINESE" value="251" />
+        <entry key="ENGLISH" value="252" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
