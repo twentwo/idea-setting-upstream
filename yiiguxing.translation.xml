@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pointcut" />
       <item value="volatile" />
       <item value="Assembler" />
       <item value="normalize" />
@@ -50,12 +51,11 @@
       <item value="idempotent" />
       <item value="corresponding" />
       <item value="Invocation Handler" />
-      <item value="Adaptive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="257" />
+        <entry key="ENGLISH" value="258" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
