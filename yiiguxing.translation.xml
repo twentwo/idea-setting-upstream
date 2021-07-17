@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="increased" />
+      <item value="incurring" />
+      <item value="chaotic" />
+      <item value="specified" />
+      <item value="unspecified" />
+      <item value="spares" />
       <item value="Opaque" />
       <item value="Convenience" />
       <item value="optimize" />
@@ -45,17 +51,11 @@
       <item value="update Buyback Subtutute Info" />
       <item value="underlying" />
       <item value="Violation" />
-      <item value="Constraint" />
-      <item value="Idempotence" />
-      <item value="Substitut" />
-      <item value="Subtutute" />
-      <item value="Trial" />
-      <item value="lease" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="261" />
-        <entry key="ENGLISH" value="262" />
+        <entry key="CHINESE" value="267" />
+        <entry key="ENGLISH" value="268" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
