@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="introductions" />
+      <item value="Introduction" />
       <item value="eligible" />
       <item value="Eligible" />
       <item value="increased" />
@@ -49,13 +51,11 @@
       <item value="multiplier" />
       <item value="precision" />
       <item value="aggregate" />
-      <item value="Simulator" />
-      <item value="update Buyback Subtutute Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="269" />
-        <entry key="ENGLISH" value="270" />
+        <entry key="CHINESE" value="271" />
+        <entry key="ENGLISH" value="272" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
