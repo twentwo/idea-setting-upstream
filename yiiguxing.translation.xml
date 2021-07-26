@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Substitute" />
       <item value="Precessing" />
       <item value="ordinal" />
       <item value="negative" />
@@ -50,12 +51,11 @@
       <item value="Unsatisfied" />
       <item value="suspend" />
       <item value="exhausted" />
-      <item value="MPC" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="276" />
-        <entry key="ENGLISH" value="277" />
+        <entry key="CHINESE" value="277" />
+        <entry key="ENGLISH" value="278" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
