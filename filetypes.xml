@@ -5,13 +5,13 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
-      <mapping pattern=".env.prepub" type="PLAIN_TEXT" />
-      <mapping pattern="weijin_sql_config" type="PLAIN_TEXT" />
       <mapping pattern="tew" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
+      <mapping pattern="weijin_sql_config" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping pattern="CounterPartyAdd.jsx" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.prepub" type="PLAIN_TEXT" />
       <mapping ext="printservice" type="PLAIN_TEXT" />
       <mapping pattern="CounterPartyAdd" type="TypeScript JSX" />
       <mapping pattern="mybatis-config" type="XML" />
