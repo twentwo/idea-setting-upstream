@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -12,10 +13,10 @@
     <mask>*.mxml</mask>
     <mask>*.groovy</mask>
     <mask>*.sql</mask>
-    <mask>*.js</mask>
     <mask>*.properties</mask>
     <mask>*.jsx</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
