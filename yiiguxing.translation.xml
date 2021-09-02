@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Unsatisfied" />
-      <item value="suspend" />
-      <item value="exhausted" />
-      <item value="MPC" />
-      <item value="canonical" />
-      <item value="multiplier" />
-      <item value="precision" />
-      <item value="aggregate" />
-      <item value="Simulator" />
-      <item value="update Buyback Subtutute Info" />
-      <item value="underlying" />
-      <item value="Violation" />
-      <item value="Constraint" />
-      <item value="Idempotence" />
-      <item value="Substitut" />
-      <item value="Subtutute" />
-      <item value="Trial" />
-      <item value="lease" />
-      <item value="idempotent" />
-      <item value="corresponding" />
-      <item value="Invocation Handler" />
-      <item value="Adaptive" />
-      <item value="Activate" />
-      <item value="delegates" />
-      <item value="Hierarchical" />
-      <item value="Examine" />
-      <item value="Nested" />
-      <item value="bidirectional" />
-      <item value="Idempotent" />
-      <item value="Assignable" />
-      <item value="coordinate" />
-      <item value="Demand" />
-      <item value="flip" />
-      <item value="arbitrary" />
-      <item value="attachment" />
-      <item value="origin" />
-      <item value="origional" />
-      <item value="origion" />
-      <item value="orig" />
-      <item value="origi" />
-      <item value="钩子" />
-      <item value="Instruction" />
-      <item value="observer" />
-      <item value="Caretaker" />
+      <item value="captcha" />
+      <item value="REUSE" />
+      <item value="resume" />
+      <item value="Explicitly" />
+      <item value="Eligible" />
+      <item value="trail" />
+      <item value="compensation" />
+      <item value="Substitute" />
+      <item value="Precessing" />
+      <item value="ordinal" />
+      <item value="negative" />
+      <item value="init Properties" />
+      <item value="optimize" />
+      <item value="introductions" />
+      <item value="Introduction" />
+      <item value="eligible" />
+      <item value="increased" />
+      <item value="incurring" />
+      <item value="chaotic" />
+      <item value="specified" />
+      <item value="unspecified" />
+      <item value="spares" />
+      <item value="Opaque" />
+      <item value="Convenience" />
+      <item value="Canonical" />
+      <item value="Pointcut" />
+      <item value="volatile" />
+      <item value="Assembler" />
+      <item value="normalize" />
+      <item value="posix" />
+      <item value="reported" />
+      <item value="Underflow" />
+      <item value="underflow" />
+      <item value="compensation first" />
+      <item value="Concrete" />
+      <item value="Deploy" />
+      <item value="omitted" />
       <item value="Primitive" />
-      <item value="leave" />
-      <item value="purchase" />
-      <item value="transparency" />
-      <item value="transLucence" />
-      <item value="transLucent" />
+      <item value="indicates" />
+      <item value="Instantiation" />
+      <item value="Initialization" />
+      <item value="Annotation" />
+      <item value="specification" />
+      <item value="Instrumentation" />
+      <item value="Accessors" />
+      <item value="Mutable" />
+      <item value="Capable" />
+      <item value="Demand" />
+      <item value="Generic" />
+      <item value="SUPPORT DRAINAGE TYPE FUNDS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="229" />
-        <entry key="ENGLISH" value="230" />
+        <entry key="CHINESE" value="284" />
+        <entry key="ENGLISH" value="285" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
@@ -64,7 +64,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619339475568" />
+    <option name="lastTrimTime" value="1630290312536" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />

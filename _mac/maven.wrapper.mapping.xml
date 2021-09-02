@@ -1,0 +1,10 @@
+<application>
+  <component name="MavenWrapperMapping">
+    <option name="mapping">
+      <map>
+        <entry key="https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.8.1/apache-maven-3.8.1-bin.zip" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.8.1-bin/2l5mhf2pq2clrde7f7qp1rdt5m/apache-maven-3.8.1" />
+        <entry key="https://repo1.maven.org/maven2/org/apache/maven/apache-maven/3.2.5/apache-maven-3.2.5-bin.zip" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.2.5-bin/16u4trrcblg0m0niira6fki3va/apache-maven-3.2.5" />
+      </map>
+    </option>
+  </component>
+</application>
