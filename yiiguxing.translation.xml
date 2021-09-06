@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Substitut" />
       <item value="captcha" />
       <item value="REUSE" />
       <item value="resume" />
@@ -50,13 +51,12 @@
       <item value="Capable" />
       <item value="Demand" />
       <item value="Generic" />
-      <item value="SUPPORT DRAINAGE TYPE FUNDS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="284" />
+        <entry key="CHINESE" value="285" />
         <entry key="ENGLISH" value="285" />
-        <entry key="FRENCH" value="4" />
+        <entry key="FRENCH" value="5" />
         <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="1" />
@@ -64,7 +64,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630290312536" />
+    <option name="lastTrimTime" value="1630916918396" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
