@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="REFRESH" />
+      <item value="PERSIST" />
+      <item value="MERGE" />
+      <item value="DETACH" />
       <item value="natural" />
       <item value="Substitut" />
       <item value="captcha" />
@@ -47,17 +51,13 @@
       <item value="Annotation" />
       <item value="specification" />
       <item value="Instrumentation" />
-      <item value="Accessors" />
-      <item value="Mutable" />
-      <item value="Capable" />
-      <item value="Demand" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="285" />
-        <entry key="ENGLISH" value="286" />
+        <entry key="CHINESE" value="288" />
+        <entry key="ENGLISH" value="289" />
         <entry key="FRENCH" value="6" />
-        <entry key="ROMANIAN" value="2" />
+        <entry key="ROMANIAN" value="3" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SWEDISH" value="1" />
       </map>
