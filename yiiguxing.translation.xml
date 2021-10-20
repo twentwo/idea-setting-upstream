@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="checksum" />
+      <item value="enlist" />
+      <item value="resume" />
       <item value="consequence" />
       <item value="suspend" />
       <item value="Catalog" />
@@ -13,7 +16,6 @@
       <item value="Substitut" />
       <item value="captcha" />
       <item value="REUSE" />
-      <item value="resume" />
       <item value="Explicitly" />
       <item value="Eligible" />
       <item value="trail" />
@@ -49,13 +51,11 @@
       <item value="Deploy" />
       <item value="omitted" />
       <item value="Primitive" />
-      <item value="indicates" />
-      <item value="Instantiation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="289" />
-        <entry key="ENGLISH" value="290" />
+        <entry key="CHINESE" value="292" />
+        <entry key="ENGLISH" value="293" />
         <entry key="FRENCH" value="6" />
         <entry key="ROMANIAN" value="3" />
         <entry key="PORTUGUESE" value="1" />
