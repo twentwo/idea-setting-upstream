@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mechanics" />
       <item value="inflate" />
       <item value="retrievals" />
       <item value="retrieving" />
@@ -50,7 +51,6 @@
       <item value="Introduction" />
       <item value="eligible" />
       <item value="increased" />
-      <item value="incurring" />
     </histories>
     <option name="languageScores">
       <map>
