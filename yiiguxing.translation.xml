@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hop" />
       <item value="retrieving" />
       <item value="evict" />
       <item value="infinity" />
@@ -50,12 +51,11 @@
       <item value="ordinal" />
       <item value="negative" />
       <item value="init Properties" />
-      <item value="optimize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="321" />
-        <entry key="ENGLISH" value="322" />
+        <entry key="CHINESE" value="322" />
+        <entry key="ENGLISH" value="323" />
         <entry key="FRENCH" value="6" />
         <entry key="ROMANIAN" value="3" />
         <entry key="PORTUGUESE" value="1" />
