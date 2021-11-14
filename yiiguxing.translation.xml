@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="receipt" />
+      <item value="Invariants" />
       <item value="stale pointer" />
       <item value="stale" />
       <item value="traversing" />
@@ -9,7 +11,6 @@
       <item value="mechanics" />
       <item value="self-pointing" />
       <item value="Non-invariants" />
-      <item value="Invariants" />
       <item value="hop" />
       <item value="retrieving" />
       <item value="evict" />
@@ -50,12 +51,11 @@
       <item value="natural" />
       <item value="Substitut" />
       <item value="captcha" />
-      <item value="REUSE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="330" />
-        <entry key="ENGLISH" value="331" />
+        <entry key="CHINESE" value="332" />
+        <entry key="ENGLISH" value="333" />
         <entry key="FRENCH" value="6" />
         <entry key="ROMANIAN" value="3" />
         <entry key="PORTUGUESE" value="1" />
