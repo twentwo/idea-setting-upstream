@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ensure" />
       <item value="critical" />
       <item value="Reads value field of an entry under lock. Called if value field ever appears to be null. This is possible only if a compiler happens to reorder a HashEntry initialization with its table assignment, which is legal under memory model but is not known to ever occur." />
       <item value="assignment" />
@@ -50,12 +51,11 @@
       <item value="Eligible" />
       <item value="checksum" />
       <item value="enlist" />
-      <item value="resume" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="346" />
-        <entry key="ENGLISH" value="347" />
+        <entry key="CHINESE" value="347" />
+        <entry key="ENGLISH" value="348" />
         <entry key="FRENCH" value="6" />
         <entry key="ROMANIAN" value="3" />
         <entry key="PORTUGUESE" value="1" />
