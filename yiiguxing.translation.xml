@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Applies a supplemental hash function to a given hashCode, which defends against poor quality hash functions. This is critical because ConcurrentHashMap uses power-of-two length hash tables, that otherwise encounter collisions for hashCodes that do not differ in lower or upper bits." />
+      <item value="upper" />
+      <item value="differ" />
+      <item value="encounter collisions" />
+      <item value="critical" />
+      <item value="poor quality" />
+      <item value="defends" />
       <item value="corresponding" />
       <item value="construction" />
       <item value="receipt" />
@@ -44,18 +51,11 @@
       <item value="consequence" />
       <item value="suspend" />
       <item value="Catalog" />
-      <item value="craft" />
-      <item value="REFRESH" />
-      <item value="PERSIST" />
-      <item value="MERGE" />
-      <item value="DETACH" />
-      <item value="natural" />
-      <item value="Substitut" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="334" />
-        <entry key="ENGLISH" value="335" />
+        <entry key="CHINESE" value="341" />
+        <entry key="ENGLISH" value="342" />
         <entry key="FRENCH" value="6" />
         <entry key="ROMANIAN" value="3" />
         <entry key="PORTUGUESE" value="1" />
