@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Specialized" />
+      <item value="EXCEPTIONAL" />
       <item value="Non-invariant" />
       <item value="Invariants" />
       <item value="for tail to not be reachable from head" />
@@ -49,13 +51,11 @@
       <item value="volatile" />
       <item value="satisfied" />
       <item value="Bucket" />
-      <item value="duration" />
-      <item value="Duration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="352" />
-        <entry key="ENGLISH" value="352" />
+        <entry key="CHINESE" value="353" />
+        <entry key="ENGLISH" value="354" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
