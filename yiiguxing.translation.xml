@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="for thread scheduling purposes and lies dormant" />
       <item value="specialized" />
       <item value="roughly" />
       <item value="as sentinel for succ(), below." />
@@ -50,12 +51,11 @@
       <item value="preferable" />
       <item value="upon" />
       <item value="violating" />
-      <item value="restrictions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="360" />
-        <entry key="ENGLISH" value="361" />
+        <entry key="CHINESE" value="361" />
+        <entry key="ENGLISH" value="362" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
