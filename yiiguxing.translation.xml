@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Array serving as submission queue. Initialized upon construction." />
+      <item value="serving" />
       <item value="external" />
       <item value="Initialized upon construction" />
       <item value="Specialized" />
@@ -49,13 +51,11 @@
       <item value="prevents" />
       <item value="specified" />
       <item value="allocation" />
-      <item value="transient" />
-      <item value="volatile" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="355" />
-        <entry key="ENGLISH" value="356" />
+        <entry key="CHINESE" value="357" />
+        <entry key="ENGLISH" value="358" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
