@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Demand" />
       <item value="instrument" />
       <item value="Synchronization" />
       <item value="propagated to callers but the transaction still considered as committed." />
@@ -50,12 +51,11 @@
       <item value="retrieving" />
       <item value="evict" />
       <item value="infinity" />
-      <item value="retrieval" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="370" />
-        <entry key="ENGLISH" value="371" />
+        <entry key="CHINESE" value="371" />
+        <entry key="ENGLISH" value="372" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640592801751" />
+    <option name="lastTrimTime" value="1641141656191" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
