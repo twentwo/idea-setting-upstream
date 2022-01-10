@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="estimate" />
       <item value="scale" />
       <item value="precision" />
       <item value="aggregate" />
@@ -50,12 +51,11 @@
       <item value="mechanics" />
       <item value="self-pointing" />
       <item value="Non-invariants" />
-      <item value="hop" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="374" />
-        <entry key="ENGLISH" value="375" />
+        <entry key="CHINESE" value="375" />
+        <entry key="ENGLISH" value="376" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
