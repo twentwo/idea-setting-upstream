@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Specific" />
       <item value="Demand" />
       <item value="explicitly" />
       <item value="Drain" />
@@ -50,12 +51,11 @@
       <item value="stale pointer" />
       <item value="stale" />
       <item value="traversing" />
-      <item value="Unsafe mechanics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="379" />
-        <entry key="ENGLISH" value="380" />
+        <entry key="CHINESE" value="380" />
+        <entry key="ENGLISH" value="381" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
