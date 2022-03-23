@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="regarded" />
       <item value="Eligible" />
       <item value="consisting" />
       <item value="Absent" />
@@ -50,12 +51,11 @@
       <item value="Applies a supplemental hash function to a given hashCode, which defends against poor quality hash functions. This is critical because ConcurrentHashMap uses power-of-two length hash tables, that otherwise encounter collisions for hashCodes that do not differ in lower or upper bits." />
       <item value="upper" />
       <item value="differ" />
-      <item value="encounter collisions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="388" />
-        <entry key="ENGLISH" value="389" />
+        <entry key="CHINESE" value="389" />
+        <entry key="ENGLISH" value="390" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
