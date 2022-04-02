@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transmittable" />
       <item value="Damage" />
       <item value="Demand" />
       <item value="constraint" />
@@ -50,12 +51,11 @@
       <item value="Reads value field of an entry under lock. Called if value field ever appears to be null. This is possible only if a compiler happens to reorder a HashEntry initialization with its table assignment, which is legal under memory model but is not known to ever occur." />
       <item value="assignment" />
       <item value="legal" />
-      <item value="Applies a supplemental hash function to a given hashCode, which defends against poor quality hash functions. This is critical because ConcurrentHashMap uses power-of-two length hash tables, that otherwise encounter collisions for hashCodes that do not differ in lower or upper bits." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="392" />
-        <entry key="ENGLISH" value="393" />
+        <entry key="CHINESE" value="393" />
+        <entry key="ENGLISH" value="394" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
