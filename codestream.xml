@@ -1,0 +1,6 @@
+<application>
+  <component name="CodeStream">
+    <option name="firstRun" value="false" />
+    <option name="serverUrl" value="https://git.souche-inc.com" />
+  </component>
+</application>

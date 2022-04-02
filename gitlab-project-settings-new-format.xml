@@ -1,0 +1,13 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="SgiE69zimu1ZPMM3du5_" />
+          <option name="apiUrl" value="https://git.souche-inc.com" />
+          <option name="repositoryUrl" value="git.souche-in.com" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
