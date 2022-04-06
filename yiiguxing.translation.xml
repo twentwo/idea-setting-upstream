@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decrease" />
       <item value="async" />
       <item value="vault" />
       <item value="recipes" />
@@ -50,12 +51,11 @@
       <item value="it is permitted for tail to lag behind head," />
       <item value="successor" />
       <item value="ensure" />
-      <item value="critical" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="396" />
-        <entry key="ENGLISH" value="397" />
+        <entry key="CHINESE" value="397" />
+        <entry key="ENGLISH" value="398" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
