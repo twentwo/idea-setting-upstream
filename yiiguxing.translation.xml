@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Variant" />
       <item value="multiplier" />
       <item value="estimate" />
       <item value="{@link org.springframework.context.annotation.AnnotationConfigApplicationContext} supports {@code @Configuration}-annotated classes as a source of bean definitions." />
@@ -50,12 +51,11 @@
       <item value="Invariants" />
       <item value="for thread scheduling purposes and lies dormant" />
       <item value="specialized" />
-      <item value="roughly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="410" />
-        <entry key="ENGLISH" value="411" />
+        <entry key="CHINESE" value="411" />
+        <entry key="ENGLISH" value="412" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
