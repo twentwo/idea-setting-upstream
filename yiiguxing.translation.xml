@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="typically" />
       <item value="delegate" />
       <item value="Variant" />
       <item value="multiplier" />
@@ -50,12 +51,11 @@
       <item value="buyback Order No" />
       <item value="satisfied" />
       <item value="Invariants" />
-      <item value="for thread scheduling purposes and lies dormant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="412" />
-        <entry key="ENGLISH" value="413" />
+        <entry key="CHINESE" value="413" />
+        <entry key="ENGLISH" value="414" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
