@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&lt;p&gt;Root bean definitions may also be used for registering individual bean definitions in the configuration phase. However, since Spring 2.5, the preferred way to register bean definitions programmatically is the {@link GenericBeanDefinition} class. GenericBeanDefinition has the advantage that it allows to dynamically define parent dependencies, not 'hard-coding' the role as a root bean definition." />
+      <item value="A root bean definition represents the merged bean definition that backs a specific bean in a Spring BeanFactory at runtime. It might have been created from multiple original bean definitions that inherit from each other, typically registered as {@link GenericBeanDefinition GenericBeanDefinitions}. A root bean definition is essentially the 'unified' bean definition view at runtime." />
       <item value="Stereotype" />
       <item value="typically" />
       <item value="delegate" />
@@ -49,13 +51,11 @@
       <item value="considered" />
       <item value="Resume" />
       <item value="Illegal Access Exception" />
-      <item value="buyback Order No" />
-      <item value="satisfied" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="414" />
-        <entry key="ENGLISH" value="415" />
+        <entry key="CHINESE" value="416" />
+        <entry key="ENGLISH" value="417" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
