@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="raw" />
+      <item value="primitive" />
       <item value="eligible" />
       <item value="essentially" />
       <item value="subsequently" />
@@ -49,13 +51,11 @@
       <item value="wait And Drain" />
       <item value="scale" />
       <item value="precision" />
-      <item value="aggregate" />
-      <item value="instrument" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="421" />
-        <entry key="ENGLISH" value="422" />
+        <entry key="CHINESE" value="423" />
+        <entry key="ENGLISH" value="424" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
