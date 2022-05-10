@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Eligible" />
       <item value="Scroll" />
       <item value="Examine" />
       <item value="Expenditure" />
@@ -50,12 +51,11 @@
       <item value="Demand" />
       <item value="constraint" />
       <item value="regarded" />
-      <item value="Eligible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="437" />
-        <entry key="ENGLISH" value="438" />
+        <entry key="CHINESE" value="438" />
+        <entry key="ENGLISH" value="439" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651715675227" />
+    <option name="lastTrimTime" value="1652165974259" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
