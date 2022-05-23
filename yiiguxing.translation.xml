@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Listen" />
+      <item value="explicitly" />
       <item value="ambiguities" />
       <item value="policies" />
       <item value="manipulating" />
       <item value="upon" />
-      <item value="explicitly" />
       <item value="threshold" />
       <item value="particular" />
       <item value="retrieve" />
@@ -50,12 +51,11 @@
       <item value="regular" />
       <item value="Infinite" />
       <item value="spare" />
-      <item value="Interval" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="447" />
-        <entry key="ENGLISH" value="448" />
+        <entry key="CHINESE" value="449" />
+        <entry key="ENGLISH" value="450" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652859069345" />
+    <option name="lastTrimTime" value="1653294231218" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
