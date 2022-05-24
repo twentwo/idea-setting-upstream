@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="criteria" />
       <item value="Listen" />
       <item value="explicitly" />
       <item value="ambiguities" />
@@ -50,12 +51,11 @@
       <item value="analogous" />
       <item value="regular" />
       <item value="Infinite" />
-      <item value="spare" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="449" />
-        <entry key="ENGLISH" value="450" />
+        <entry key="CHINESE" value="450" />
+        <entry key="ENGLISH" value="451" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
