@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="eligible" />
       <item value="staged" />
       <item value="idempotence" />
       <item value="curator" />
@@ -34,7 +35,6 @@
       <item value="expose" />
       <item value="raw" />
       <item value="primitive" />
-      <item value="eligible" />
       <item value="essentially" />
       <item value="subsequently" />
       <item value="programmatically" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="458" />
-        <entry key="ENGLISH" value="459" />
+        <entry key="CHINESE" value="459" />
+        <entry key="ENGLISH" value="460" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
