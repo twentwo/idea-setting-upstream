@@ -9,11 +9,11 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.sql</mask>
-    <mask>*.properties</mask>
     <mask>*.groovy</mask>
     <mask>*.js</mask>
     <mask>*.jsx</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
