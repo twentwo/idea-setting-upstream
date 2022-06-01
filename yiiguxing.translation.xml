@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MYBANK DEDUCT" />
       <item value="eligible" />
       <item value="staged" />
       <item value="idempotence" />
@@ -50,12 +51,11 @@
       <item value="estimate" />
       <item value="{@link org.springframework.context.annotation.AnnotationConfigApplicationContext} supports {@code @Configuration}-annotated classes as a source of bean definitions." />
       <item value="derive" />
-      <item value="Concrete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="459" />
-        <entry key="ENGLISH" value="460" />
+        <entry key="CHINESE" value="460" />
+        <entry key="ENGLISH" value="461" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
