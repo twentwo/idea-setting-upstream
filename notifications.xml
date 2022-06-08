@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Translation Plugin" shouldLog="false" />
+  </component>
+</application>
