@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="jupiter" />
       <item value="perceive" />
       <item value="Infinite" />
       <item value="Manual" />
@@ -50,12 +51,11 @@
       <item value="typically" />
       <item value="delegate" />
       <item value="Variant" />
-      <item value="multiplier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="463" />
-        <entry key="ENGLISH" value="464" />
+        <entry key="CHINESE" value="464" />
+        <entry key="ENGLISH" value="465" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654497439698" />
+    <option name="lastTrimTime" value="1655801754161" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
