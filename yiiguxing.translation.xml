@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Currency" />
       <item value="jupiter" />
       <item value="perceive" />
       <item value="Infinite" />
@@ -50,12 +51,11 @@
       <item value="Stereotype" />
       <item value="typically" />
       <item value="delegate" />
-      <item value="Variant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="464" />
-        <entry key="ENGLISH" value="465" />
+        <entry key="CHINESE" value="465" />
+        <entry key="ENGLISH" value="466" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
