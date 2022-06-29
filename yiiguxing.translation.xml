@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retrieve" />
       <item value="Synthetic" />
       <item value="Currency" />
       <item value="jupiter" />
@@ -24,7 +25,6 @@
       <item value="upon" />
       <item value="threshold" />
       <item value="particular" />
-      <item value="retrieve" />
       <item value="corresponds" />
       <item value="is Eligible" />
       <item value="Scroll" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="466" />
-        <entry key="ENGLISH" value="467" />
+        <entry key="CHINESE" value="467" />
+        <entry key="ENGLISH" value="468" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
