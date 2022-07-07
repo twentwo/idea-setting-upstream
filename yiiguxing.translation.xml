@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Property" />
       <item value="evaluated" />
       <item value="contrary" />
       <item value="snake" />
@@ -50,12 +51,11 @@
       <item value="subsequently" />
       <item value="programmatically" />
       <item value="satisfied" />
-      <item value="Explicit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="471" />
-        <entry key="ENGLISH" value="472" />
+        <entry key="CHINESE" value="472" />
+        <entry key="ENGLISH" value="473" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
