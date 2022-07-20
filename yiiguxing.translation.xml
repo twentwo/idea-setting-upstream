@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sneaky Throws" />
       <item value="superclass" />
       <item value="Valve" />
       <item value="Instantiation" />
@@ -50,12 +51,11 @@
       <item value="opaque" />
       <item value="compatible" />
       <item value="preclude" />
-      <item value="differ" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="481" />
-        <entry key="ENGLISH" value="482" />
+        <entry key="CHINESE" value="482" />
+        <entry key="ENGLISH" value="483" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
