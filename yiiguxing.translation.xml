@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dependent" />
+      <item value="Scale" />
       <item value="Duration" />
       <item value="Deprecated" />
       <item value="Sneaky Throws" />
@@ -49,13 +51,11 @@
       <item value="Expenditure" />
       <item value="expenditure" />
       <item value="interoperability" />
-      <item value="prevented" />
-      <item value="opaque" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="484" />
-        <entry key="ENGLISH" value="485" />
+        <entry key="CHINESE" value="487" />
+        <entry key="ENGLISH" value="488" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
