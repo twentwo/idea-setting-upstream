@@ -674,9 +674,33 @@
           <option name="url" value="git@git.souche-inc.com:base-midware/op-async-task.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.souche-inc.com:souche-wireless-architecture/Reiko/Reiko_Backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.souche-inc.com:souche-wireless-architecture/Reiko/Reiko_Frontend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.souche-inc.com:souche-wireless-architecture/Reiko/reiko-security.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.souche-inc.com:souche-wireless-architecture/Reiko/Client.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.souche-inc.com:souche-wireless-architecture/Reiko/reiko-parser.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.souche-inc.com:souche-wireless-architecture/Reiko/reiko-jenkins.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/sc" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/sc/reiko" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
