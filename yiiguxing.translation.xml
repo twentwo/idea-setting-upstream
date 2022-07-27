@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Valve" />
       <item value="Duplex" />
       <item value="impacted" />
       <item value="independently" />
@@ -16,7 +17,6 @@
       <item value="Deprecated" />
       <item value="Sneaky Throws" />
       <item value="superclass" />
-      <item value="Valve" />
       <item value="Instantiation" />
       <item value="regular" />
       <item value="constraints" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="495" />
-        <entry key="ENGLISH" value="496" />
+        <entry key="CHINESE" value="496" />
+        <entry key="ENGLISH" value="497" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="3" />
