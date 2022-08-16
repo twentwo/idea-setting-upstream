@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mandatory" />
       <item value="periodic" />
       <item value="appropriate conversion strategy" />
       <item value="assuming" />
@@ -50,12 +51,11 @@
       <item value="hints" />
       <item value="criteria" />
       <item value="Listen" />
-      <item value="ambiguities" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="501" />
-        <entry key="ENGLISH" value="502" />
+        <entry key="CHINESE" value="502" />
+        <entry key="ENGLISH" value="503" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="3" />
