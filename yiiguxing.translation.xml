@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="traverse" />
       <item value="Reserve" />
       <item value="Exposing" />
       <item value="presenting" />
@@ -50,12 +51,11 @@
       <item value="idempotence" />
       <item value="curator" />
       <item value="surefire" />
-      <item value="inheritance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="505" />
-        <entry key="ENGLISH" value="506" />
+        <entry key="CHINESE" value="506" />
+        <entry key="ENGLISH" value="507" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="3" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660552260549" />
+    <option name="lastTrimTime" value="1661495366860" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
