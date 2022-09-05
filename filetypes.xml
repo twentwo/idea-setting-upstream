@@ -5,7 +5,6 @@
       <mapping pattern="nginx-on-centos6-01.md" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="pdf" type="Native" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.prepub" type="PLAIN_TEXT" />
       <mapping pattern="weijin_sql_config" type="PLAIN_TEXT" />
