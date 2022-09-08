@@ -702,6 +702,10 @@
           <option name="url" value="git@git.souche-inc.com:yecong/funds-archetype-ddd.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.souche-inc.com:funds/gs-config.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/sc/reiko" />
