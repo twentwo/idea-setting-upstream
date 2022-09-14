@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="identical" />
       <item value="identity" />
       <item value="underlying" />
       <item value="retrieved" />
@@ -50,7 +51,6 @@
       <item value="jupiter" />
       <item value="perceive" />
       <item value="Infinite" />
-      <item value="Manual" />
     </histories>
     <option name="languageScores">
       <map>
