@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sequence" />
       <item value="corresponding" />
       <item value="convenient" />
       <item value="specification" />
@@ -50,12 +51,11 @@
       <item value="Property" />
       <item value="evaluated" />
       <item value="contrary" />
-      <item value="snake" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="520" />
-        <entry key="ENGLISH" value="521" />
+        <entry key="CHINESE" value="521" />
+        <entry key="ENGLISH" value="522" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="3" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663145960655" />
+    <option name="lastTrimTime" value="1663912586873" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
