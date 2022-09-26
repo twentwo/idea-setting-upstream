@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="essentially" />
+      <item value="typically" />
       <item value="convenience" />
       <item value="Sequence" />
       <item value="corresponding" />
@@ -49,13 +51,11 @@
       <item value="due to" />
       <item value="polymorphic" />
       <item value="Convenience" />
-      <item value="Property" />
-      <item value="evaluated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="522" />
-        <entry key="ENGLISH" value="523" />
+        <entry key="CHINESE" value="524" />
+        <entry key="ENGLISH" value="525" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="3" />
