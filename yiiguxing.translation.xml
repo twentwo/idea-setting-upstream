@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retried" />
+      <item value="Exponential" />
       <item value="Retrieve" />
       <item value="essentially" />
       <item value="typically" />
@@ -49,13 +51,11 @@
       <item value="Instantiation" />
       <item value="regular" />
       <item value="constraints" />
-      <item value="due to" />
-      <item value="polymorphic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="525" />
-        <entry key="ENGLISH" value="526" />
+        <entry key="CHINESE" value="527" />
+        <entry key="ENGLISH" value="528" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="3" />
