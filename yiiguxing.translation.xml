@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Carrier" />
       <item value="orphan" />
       <item value="Sneaky" />
       <item value="Settle" />
@@ -50,12 +51,11 @@
       <item value="transmit" />
       <item value="Dependent" />
       <item value="Scale" />
-      <item value="Duration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="532" />
-        <entry key="ENGLISH" value="533" />
+        <entry key="CHINESE" value="533" />
+        <entry key="ENGLISH" value="534" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="3" />
