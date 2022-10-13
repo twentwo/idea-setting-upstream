@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="constant" />
       <item value="Eagleeye" />
       <item value="hence" />
       <item value="Withdraw" />
@@ -50,12 +51,11 @@
       <item value="upon" />
       <item value="explicitly" />
       <item value="idempotent" />
-      <item value="Dump" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="536" />
-        <entry key="ENGLISH" value="537" />
+        <entry key="CHINESE" value="537" />
+        <entry key="ENGLISH" value="538" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="3" />
