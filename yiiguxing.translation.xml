@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lettuce" />
+      <item value="Chrono" />
       <item value="Outgoing" />
       <item value="property" />
       <item value="consecutive" />
@@ -49,13 +51,11 @@
       <item value="periodic" />
       <item value="appropriate conversion strategy" />
       <item value="assuming" />
-      <item value="Eligible" />
-      <item value="Valve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="541" />
-        <entry key="ENGLISH" value="542" />
+        <entry key="CHINESE" value="543" />
+        <entry key="ENGLISH" value="544" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="3" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665856120573" />
+    <option name="lastTrimTime" value="1666438125210" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
