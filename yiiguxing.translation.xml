@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Wildcard" />
       <item value="circuiting" />
       <item value="comma" />
       <item value="protection Domain" />
@@ -50,12 +51,11 @@
       <item value="retrieved" />
       <item value="flyweight" />
       <item value="traverse" />
-      <item value="Reserve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="549" />
-        <entry key="ENGLISH" value="550" />
+        <entry key="CHINESE" value="550" />
+        <entry key="ENGLISH" value="551" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="3" />
