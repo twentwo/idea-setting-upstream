@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="circuiting" />
+      <item value="comma" />
       <item value="protection Domain" />
       <item value="Preferences" />
       <item value="csrf" />
@@ -49,13 +51,11 @@
       <item value="flyweight" />
       <item value="traverse" />
       <item value="Reserve" />
-      <item value="Exposing" />
-      <item value="presenting" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="547" />
-        <entry key="ENGLISH" value="548" />
+        <entry key="CHINESE" value="549" />
+        <entry key="ENGLISH" value="550" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="3" />
