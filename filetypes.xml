@@ -15,6 +15,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="mwb" type="PLAIN_TEXT" />
       <mapping ext="printservice" type="PLAIN_TEXT" />
+      <mapping ext="filter" type="PLAIN_TEXT" />
       <mapping pattern="CounterPartyAdd" type="TypeScript JSX" />
       <mapping pattern="mybatis-config" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
