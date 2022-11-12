@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="collision" />
       <item value="hydrate" />
       <item value="hydrated" />
       <item value="Specifies a column for joining an entity association or element collection. If the JoinColumn annotation itself is defaulted, a single join column is assumed and the default values apply." />
@@ -50,12 +51,11 @@
       <item value="Exponential" />
       <item value="Retrieve" />
       <item value="essentially" />
-      <item value="typically" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="567" />
-        <entry key="ENGLISH" value="568" />
+        <entry key="CHINESE" value="568" />
+        <entry key="ENGLISH" value="569" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="3" />
