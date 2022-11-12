@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Note, the URI class does perform escaping of its component fields in certain circumstances. The recommended way to manage the encoding and decoding of URLs is to use URI, and to convert between these two classes using toURI() and URI.toURL()." />
       <item value="Separator" />
       <item value="collision" />
       <item value="hydrate" />
@@ -50,12 +51,11 @@
       <item value="Interval" />
       <item value="retried" />
       <item value="Exponential" />
-      <item value="Retrieve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="568" />
-        <entry key="ENGLISH" value="569" />
+        <entry key="CHINESE" value="569" />
+        <entry key="ENGLISH" value="570" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="3" />
