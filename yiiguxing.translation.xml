@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pattern" />
       <item value="retrieved" />
       <item value="A variant of ObjectFactory designed specifically for injection points, allowing for programmatic optionality and lenient not-unique handling." />
       <item value="Defines a factory which can return an Object instance (possibly shared or independent) when invoked." />
@@ -50,12 +51,11 @@
       <item value="orphan" />
       <item value="Sneaky" />
       <item value="Settle" />
-      <item value="Identity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="576" />
-        <entry key="ENGLISH" value="577" />
+        <entry key="CHINESE" value="577" />
+        <entry key="ENGLISH" value="578" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="3" />
