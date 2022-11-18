@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Guardian" />
       <item value="complement" />
       <item value="Delegating" />
       <item value="Bulkhead" />
@@ -50,7 +51,6 @@
       <item value="Eagleeye" />
       <item value="hence" />
       <item value="Withdraw" />
-      <item value="Carrier" />
     </histories>
     <option name="languageScores">
       <map>
