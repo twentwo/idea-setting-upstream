@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Choice" />
+      <item value="Number Format" />
       <item value="READABLE Date Time Formatter" />
       <item value="suppression" />
       <item value="enable Suppression" />
@@ -49,8 +51,6 @@
       <item value="Distributed" />
       <item value="lettuce" />
       <item value="Outgoing" />
-      <item value="consecutive" />
-      <item value="Defer" />
     </histories>
     <option name="languageScores">
       <map>
