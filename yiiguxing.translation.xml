@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Nested" />
       <item value="intercept" />
       <item value="Identity" />
       <item value="Choice" />
@@ -50,7 +51,6 @@
       <item value="protection Domain" />
       <item value="Preferences" />
       <item value="csrf" />
-      <item value="Distributed" />
     </histories>
     <option name="languageScores">
       <map>
