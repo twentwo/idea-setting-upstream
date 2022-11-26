@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="traverse" />
+      <item value="assembly" />
       <item value="Nested" />
       <item value="intercept" />
       <item value="Identity" />
@@ -49,13 +51,11 @@
       <item value="circuiting" />
       <item value="comma" />
       <item value="protection Domain" />
-      <item value="Preferences" />
-      <item value="csrf" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="584" />
-        <entry key="ENGLISH" value="585" />
+        <entry key="CHINESE" value="585" />
+        <entry key="ENGLISH" value="586" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="2" />
         <entry key="ROMANIAN" value="3" />
