@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Instantiate" />
       <item value="Initialization" />
       <item value="locations" />
       <item value="Identity" />
@@ -50,7 +51,6 @@
       <item value="Absent" />
       <item value="Archaius" />
       <item value="Chrono" />
-      <item value="Wildcard" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668392544887" />
+    <option name="lastTrimTime" value="1669731812415" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
