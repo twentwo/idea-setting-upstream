@@ -71,4 +71,7 @@
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1670053598703" />
+  </component>
 </application>
