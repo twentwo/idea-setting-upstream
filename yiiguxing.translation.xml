@@ -76,6 +76,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Identity" />
       <item value="accidentally" />
     </histories>
   </component>
