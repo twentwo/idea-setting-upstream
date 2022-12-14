@@ -76,6 +76,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="semantics" />
       <item value="candidate" />
       <item value="Observable" />
       <item value="Identity" />
