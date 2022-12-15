@@ -76,6 +76,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ambiguous" />
       <item value="identical" />
       <item value="semantics" />
       <item value="candidate" />
