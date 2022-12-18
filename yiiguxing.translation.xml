@@ -76,6 +76,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="substitution" />
       <item value="eventual" />
       <item value="Expected" />
       <item value="ambiguous" />
