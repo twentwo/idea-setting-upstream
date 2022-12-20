@@ -76,6 +76,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="composed" />
       <item value="Synthetic" />
       <item value="substitution" />
       <item value="eventual" />
