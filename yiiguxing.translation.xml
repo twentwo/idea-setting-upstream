@@ -76,6 +76,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="DEPENDENT" />
       <item value="drain To" />
       <item value="Analogous" />
       <item value="composed" />
