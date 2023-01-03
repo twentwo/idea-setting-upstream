@@ -76,6 +76,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="suspending" />
       <item value="Bulk" />
       <item value="DEPENDENT" />
       <item value="drain To" />
