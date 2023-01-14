@@ -76,6 +76,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="expand" />
       <item value="Positive" />
       <item value="Applicable" />
       <item value="suspending" />
