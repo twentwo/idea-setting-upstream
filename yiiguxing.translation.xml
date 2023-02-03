@@ -76,6 +76,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="accumulator" />
       <item value="confirm Task Mapper" />
       <item value="voucher" />
       <item value="specification" />
