@@ -770,6 +770,10 @@
           <option name="url" value="git@git.souche-inc.com:caochongchong/mq-idempotence.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:alibaba/spring-context-support.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/sc" />
