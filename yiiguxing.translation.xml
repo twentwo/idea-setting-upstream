@@ -76,6 +76,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Temporal" />
       <item value="suppression" />
       <item value="predict" />
       <item value="appropriate" />
