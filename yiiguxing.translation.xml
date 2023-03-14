@@ -76,6 +76,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ultimate" />
       <item value="Reliability" />
       <item value="correlative" />
       <item value="neutral" />
@@ -115,8 +116,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
