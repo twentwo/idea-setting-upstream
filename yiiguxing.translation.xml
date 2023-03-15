@@ -76,6 +76,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="acquisition" />
+      <item value="dormant" />
+      <item value="impose" />
+      <item value="restrictions" />
+      <item value="Considerations" />
       <item value="external" />
       <item value="ultimate" />
       <item value="Reliability" />
@@ -117,8 +122,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
