@@ -76,6 +76,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Reliability" />
       <item value="Deferred" />
       <item value="acquisition" />
       <item value="dormant" />
@@ -84,7 +85,6 @@
       <item value="Considerations" />
       <item value="external" />
       <item value="ultimate" />
-      <item value="Reliability" />
       <item value="correlative" />
       <item value="neutral" />
       <item value="Occupy" />
@@ -123,8 +123,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
