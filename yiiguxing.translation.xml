@@ -76,6 +76,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ultimat" />
       <item value="Literal" />
       <item value="Reliability" />
       <item value="transmit" />
