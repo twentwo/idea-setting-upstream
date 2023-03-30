@@ -76,6 +76,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="in two's complement binary form." />
       <item value="precedence" />
       <item value="ultimat" />
       <item value="Literal" />
