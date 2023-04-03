@@ -76,6 +76,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="decorate" />
       <item value="in two's complement binary form." />
       <item value="precedence" />
       <item value="ultimat" />
@@ -125,7 +126,6 @@
       <item value="candidate" />
       <item value="Observable" />
       <item value="Identity" />
-      <item value="accidentally" />
     </histories>
     <option name="languageScores">
       <map>
