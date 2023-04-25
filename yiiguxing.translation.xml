@@ -76,6 +76,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="demand" />
       <item value="determine" />
       <item value="subsequent" />
       <item value="decorate" />
@@ -125,7 +126,6 @@
       <item value="ambiguous" />
       <item value="identical" />
       <item value="semantics" />
-      <item value="candidate" />
     </histories>
     <option name="languageScores">
       <map>
