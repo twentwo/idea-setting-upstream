@@ -76,9 +76,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="subsequent" />
       <item value="demand" />
       <item value="determine" />
-      <item value="subsequent" />
       <item value="decorate" />
       <item value="in two's complement binary form." />
       <item value="precedence" />
