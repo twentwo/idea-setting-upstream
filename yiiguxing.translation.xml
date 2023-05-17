@@ -76,6 +76,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Vendor" />
       <item value="implies" />
       <item value="reconciled" />
       <item value="subsequent" />
@@ -125,7 +126,6 @@
       <item value="substitution" />
       <item value="eventual" />
       <item value="Expected" />
-      <item value="ambiguous" />
     </histories>
     <option name="languageScores">
       <map>
