@@ -76,9 +76,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="implies" />
       <item value="inspect" />
       <item value="Vendor" />
-      <item value="implies" />
       <item value="reconciled" />
       <item value="subsequent" />
       <item value="demand" />
