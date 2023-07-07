@@ -72,10 +72,11 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1679157271197" />
+    <option name="lastTrimTime" value="1688695970032" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="threshold" />
       <item value="implies" />
       <item value="inspect" />
       <item value="Vendor" />
@@ -125,12 +126,11 @@
       <item value="composed" />
       <item value="Synthetic" />
       <item value="substitution" />
-      <item value="eventual" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="20" />
       </map>
     </option>
   </component>
