@@ -72,10 +72,11 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1689142205732" />
+    <option name="lastTrimTime" value="1689751652037" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Discards" />
       <item value="Samples" />
       <item value="sanitize" />
       <item value="preserve" />
@@ -125,7 +126,6 @@
       <item value="corresponds" />
       <item value="expand" />
       <item value="Positive" />
-      <item value="Applicable" />
     </histories>
     <option name="languageScores">
       <map>
