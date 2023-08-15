@@ -76,6 +76,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Tim Sort" />
+      <item value="legacy Merge Sort" />
       <item value="Retrieves" />
       <item value="Examine" />
       <item value="analogous" />
@@ -124,14 +126,13 @@
       <item value="appropriate" />
       <item value="enclosing" />
       <item value="accumulator" />
-      <item value="confirm Task Mapper" />
-      <item value="voucher" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="33" />
         <entry key="SLOVAK" value="1" />
+        <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
