@@ -72,10 +72,11 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1692611358479" />
+    <option name="lastTrimTime" value="1693465467168" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="culling" />
       <item value="conscious" />
       <item value="Tim Sort" />
       <item value="legacy Merge Sort" />
@@ -125,12 +126,11 @@
       <item value="suppression" />
       <item value="predict" />
       <item value="appropriate" />
-      <item value="enclosing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="35" />
         <entry key="SLOVAK" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
