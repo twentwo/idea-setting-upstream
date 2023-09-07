@@ -72,10 +72,11 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1693465467168" />
+    <option name="lastTrimTime" value="1694053552367" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Decorat" />
       <item value="residue" />
       <item value="culling" />
       <item value="conscious" />
@@ -125,12 +126,12 @@
       <item value="high-resolution" />
       <item value="Temporal" />
       <item value="suppression" />
-      <item value="predict" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
+        <entry key="CHINESE" value="36" />
         <entry key="ENGLISH" value="36" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="SLOVAK" value="1" />
         <entry key="SPANISH" value="1" />
       </map>
